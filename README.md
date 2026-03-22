@@ -6,8 +6,8 @@ Repositório com as atividades da Entrega 1 - Hands on Estrutura de Controle
 ## Menu
 
 - [0 - Sair](#)
-- [1 - Par ou Ímpar](./Par%20ou%20Impar.por)
-- [2 - Maior de dois](./Maior%20de%20dois.por)
+- [1 - Par ou Ímpar](./[Par%20ou%20Impar.por](https://github.com/manulaportee/UNA---Entrega-1---Hands-on-Estrutura-de-Controle-alg-prog-/edit/main/README.md))
+- [2 - Maior de dois](./[Maior%20de%20dois.por](https://github.com/manulaportee/UNA---Entrega-1---Hands-on-Estrutura-de-Controle-alg-prog-/edit/main/README.md))
 - [3 - Calculadora com menu](./Calculadora%20com%20menu.por)
 - [4 - Validacao de entrada](./Validacao%20de%20entrada.por)
 - [5 - Sentinela (parada no 0)](./Sentinela%20(parada%20no%200).por)
